@@ -1,0 +1,689 @@
+Hashtag,Keyword,Organisation
+,"{'Medical', 'Health', 'Policy', 'Funding', 'Research', 'Grant', 'Government'}","{'UQ_News', 'UniofAdelaide', 'QIMRBerghofer', 'UniversitySA', 'UOW', 'QUT', 'Macquarie_Uni', 'ANUmedia', 'WestmeadInst', 'UNSW', 'BakerResearchAu', 'TheFlorey', 'sahmriAU', 'PeterMacCC', 'Sydney_Uni', 'WEHI_research', 'uwanews', 'Uni_Newcastle', 'MCRI_for_kids', 'latrobe', 'unimelb', 'CentenaryInst', 'MonashUni', 'blackdoginst', 'UTAS_', 'GarvanInstitute', 'Flinders', 'UTSEngage'}"
+ '3D',{'Research'},{'QUT'}
+ '3Dprinted',{'Research'},{'MonashUni'}
+ 'ACPNS',{'Grant'},{'QUT'}
+ 'ACSNSW',{'Funding'},{'UOW'}
+ 'AI',{'Research'},{'Sydney_Uni'}
+ 'ASCO18',{'Grant'},{'PeterMacCC'}
+ 'AUSpol',{'Health'},{'QUT'}
+ 'AcaWriter',"{'Health', 'Research'}",{'UTSEngage'}
+ 'Alzheimer',"{'Medical', 'Research'}",{'UniofAdelaide'}
+ 'Antiangiogenic',{'Research'},{'WEHI_research'}
+ 'Antimetastatic',{'Research'},{'WEHI_research'}
+ 'Aphasia',"{'Funding', 'Research'}",{'latrobe'}
+ 'Apoptotic',{'Research'},{'WEHI_research'}
+ 'ArtofScience',"{'Health', 'Grant', 'Research'}",{'WEHI_research'}
+ 'AtoZQldScience',{'Research'},{'QIMRBerghofer'}
+ 'AugmentedReality',{'Research'},{'MonashUni'}
+ 'Australia',"{'Government', 'Research'}","{'unimelb', 'EyeResearchAus', 'UNSW'}"
+ 'BRAF',{'Research'},{'WestmeadInst'}
+ 'BTSM',{'Grant'},{'PeterMacCC'}
+ 'Biocompatibility',"{'Funding', 'Research'}",{'Flinders'}
+ 'Biomarkers',{'Grant'},{'PeterMacCC'}
+ 'Biomimetics',"{'Funding', 'Research'}",{'Flinders'}
+ 'BrainMetastases',{'Grant'},{'PeterMacCC'}
+ 'BrainMetastasis',{'Grant'},{'PeterMacCC'}
+ 'Brisbane',{'Research'},{'UQ_News'}
+ 'CBGL',{'Government'},{'Flinders'}
+ 'CaMolDx',{'Grant'},{'PeterMacCC'}
+ 'Canberra',{'Research'},{'UNSW'}
+ 'CancerImaging',{'Grant'},{'PeterMacCC'}
+ 'CareerArc',{'Health'},{'latrobe'}
+ 'CaxTx',{'Grant'},{'PeterMacCC'}
+ 'ChangeIt',{'Research'},{'MonashUni'}
+ 'CheckpointInhibitors',{'Grant'},{'PeterMacCC'}
+ 'China',{'Government'},{'UNSW'}
+ 'Collaboration',"{'Health', 'Research'}",{'sahmriAU'}
+ 'DVTech18',{'Funding'},{'QUT'}
+ 'DiseaseMonitoring',{'Grant'},{'PeterMacCC'}
+ 'DravetSyndrome',{'Research'},"{'TheFlorey', 'UQ_News'}"
+ 'DreamLab',{'Research'},{'GarvanInstitute'}
+ 'ECRchat',"{'Medical', 'Grant', 'Research'}",{'sahmriAU'}
+ 'EOL',"{'Health', 'Research'}",{'QUT'}
+ 'ESG',{'Research'},{'Macquarie_Uni'}
+ 'ETP18',{'Grant'},"{'ANUmedia', 'UNSW'}"
+ 'Endoflifecare',{'Health'},{'UniofAdelaide'}
+ 'Engineering',"{'Grant', 'Research'}",{'UTSEngage'}
+ 'Entrepreneurs',"{'Medical', 'Health'}",{'QUT'}
+ 'Eureka18',{'Research'},{'UQ_News'}
+ 'FOBITas',{'Research'},{'UTAS_'}
+ 'Fedsquare',"{'Health', 'Grant', 'Research'}",{'WEHI_research'}
+ 'Finland',"{'Policy', 'Health', 'Grant', 'Research'}",{'ANUmedia'}
+ 'FreeSpeechForAll',{'Research'},{'uwanews'}
+ 'GPCR',{'Research'},{'MonashUni'}
+ 'Go8',{'Health'},"{'Sydney_Uni', 'UQ_News', 'UniofAdelaide', 'uwanews', 'ANUmedia', 'UNSW', 'unimelb', 'MonashUni'}"
+ 'Government',{'Government'},"{'Flinders', 'UNSW'}"
+ 'GreatBarrierReef',{'Health'},{'QUT'}
+ 'HappyWeekend',{'Government'},{'Flinders'}
+ 'Health',"{'Health', 'Research'}","{'Flinders', 'sahmriAU'}"
+ 'HealthTech',{'Health'},{'MCRI_for_kids'}
+ 'Healthcare',"{'Medical', 'Health'}",{'latrobe'}
+ 'HealthcareIT',{'Health'},{'MCRI_for_kids'}
+ 'HigherEd',"{'Grant', 'Research'}",{'UTSEngage'}
+ 'HunterBiz',{'Research'},{'Uni_Newcastle'}
+ 'IGA',{'Research'},{'MonashUni'}
+ 'IHBI',{'Research'},{'QUT'}
+ 'IHBIAdvances',{'Research'},{'QUT'}
+ 'IHBIInspires2018',"{'Health', 'Research'}",{'QUT'}
+ 'IR',{'Government'},{'Flinders'}
+ 'Illawarra',{'Funding'},{'UOW'}
+ 'Imaging',{'Grant'},{'PeterMacCC'}
+ 'ImmunoOnc',{'Grant'},{'PeterMacCC'}
+ 'Immunotherapy',{'Grant'},{'PeterMacCC'}
+ 'Inflammation',{'Research'},{'CentenaryInst'}
+ 'International',{'Government'},{'UNSW'}
+ 'Ipilimumab',{'Grant'},{'PeterMacCC'}
+ 'Irrigation',{'Research'},{'UniofAdelaide'}
+ 'Job',{'Health'},{'latrobe'}
+ 'Jobs',{'Health'},{'latrobe'}
+ 'LSFM18',{'Research'},{'WEHI_research'}
+ 'Latrobe',{'Health'},{'latrobe'}
+ 'Lecturer',"{'Health', 'Research'}",{'UTAS_'}
+ 'Low',"{'Grant', 'Research'}",{'UTSEngage'}
+ 'LowSES',"{'Grant', 'Research'}",{'UTSEngage'}
+ 'MBSReview',{'Health'},{'QUT'}
+ 'MRI',{'Grant'},{'PeterMacCC'}
+ 'MSc',{'Research'},"{'unimelb', 'MCRI_for_kids'}"
+ 'MechanicalEngineering',"{'Funding', 'Research'}",{'Flinders'}
+ 'Melanoma',{'Grant'},{'PeterMacCC'}
+ 'Melsm',{'Grant'},{'PeterMacCC'}
+ 'Meningococcal',{'Research'},{'UniofAdelaide'}
+ 'Metastasis',{'Grant'},{'PeterMacCC'}
+ 'MonashOpenDay',{'Research'},{'MonashUni'}
+ 'Moodle',{'Grant'},"{'UQ_News', 'QUT'}"
+ 'MootAU18',{'Grant'},"{'UQ_News', 'QUT'}"
+ 'Mqopenday',{'Research'},{'Macquarie_Uni'}
+ 'NTD',{'Research'},{'QIMRBerghofer'}
+ 'NatSciWk',{'Research'},{'WEHI_research'}
+ 'NationalScienceWeek',"{'Medical', 'Research'}",{'WEHI_research'}
+ 'Nivolumab',{'Grant'},{'PeterMacCC'}
+ 'Nurses',{'Research'},{'MonashUni'}
+ 'Nursing',"{'Health', 'Research'}",{'UTAS_'}
+ 'OncoRad',{'Grant'},{'PeterMacCC'}
+ 'OpenDay',{'Health'},{'Macquarie_Uni'}
+ 'OzHist',{'Research'},{'Flinders'}
+ 'PHN',"{'Policy', 'Health'}",{'Flinders'}
+ 'PHST2018',{'Health'},{'uwanews'}
+ 'PM',{'Government'},{'UNSW'}
+ 'PTSD',"{'Medical', 'Health', 'Research'}",{'Sydney_Uni'}
+ 'ParkvilleOpenDay',{'Research'},{'MonashUni'}
+ 'PhD',{'Research'},"{'Uni_Newcastle', 'unimelb', 'MCRI_for_kids'}"
+ 'PhDchat',{'Research'},{'UniversitySA'}
+ 'Policy',"{'Policy', 'Research'}",{'QUT'}
+ 'PublicHealth',{'Health'},{'QUT'}
+ 'QIMRBerghofer',"{'Health', 'Research'}",{'QIMRBerghofer'}
+ 'QPEN',{'Grant'},"{'UQ_News', 'QUT'}"
+ 'QUT',{'Research'},{'QUT'}
+ 'QUTBusiness',{'Grant'},{'QUT'}
+ 'Quantum',"{'Funding', 'Research'}",{'Sydney_Uni'}
+ 'RadOnc',{'Grant'},{'PeterMacCC'}
+ 'RealHealthMatters',"{'Medical', 'Health', 'Research'}",{'QUT'}
+ 'Regional',"{'Grant', 'Research'}",{'UTSEngage'}
+ 'RenewableEnergy',{'Grant'},{'uwanews'}
+ 'Research',"{'Policy', 'Research'}","{'unimelb', 'EyeResearchAus', 'QUT'}"
+ 'RiskAssessment',{'Health'},{'QUT'}
+ 'Robotics',"{'Medical', 'Health'}",{'QUT'}
+ 'S100',{'Grant'},{'PeterMacCC'}
+ 'SKCSM',{'Grant'},{'PeterMacCC'}
+ 'SPRF',"{'Policy', 'Research'}",{'BakerResearchAu'}
+ 'STEM',"{'Grant', 'Research'}","{'UTSEngage', 'UNSW'}"
+ 'STEMis4me',"{'Health', 'Research'}",{'QUT'}
+ 'SciArt',{'Research'},{'WEHI_research'}
+ 'SciComm',"{'Health', 'Research'}",{'Sydney_Uni'}
+ 'Sciart',"{'Health', 'Grant', 'Research'}",{'WEHI_research'}
+ 'Science4Seniors',{'Research'},{'sahmriAU'}
+ 'ScienceWeek',{'Research'},"{'WEHI_research', 'CentenaryInst', 'MonashUni'}"
+ 'Skcsm',{'Grant'},{'PeterMacCC'}
+ 'SkinCancer',{'Grant'},{'PeterMacCC'}
+ 'SoNM',{'Research'},{'PeterMacCC'}
+ 'StLucia',{'Grant'},"{'UQ_News', 'QUT'}"
+ 'StudentEquity',"{'Policy', 'Research'}",{'QUT'}
+ 'Sustainable',{'Research'},{'UniofAdelaide'}
+ 'Sydney',{'Medical'},{'UNSW'}
+ 'T1D',"{'Health', 'Research'}",{'BakerResearchAu'}
+ 'TEDxMelbourne',{'Research'},{'TheFlorey'}
+ 'TLCitycat',{'Medical'},{'QUT'}
+ 'TallPoppy',"{'Health', 'Research'}",{'Sydney_Uni'}
+ 'TargetedTherapy',{'Grant'},{'PeterMacCC'}
+ 'Tech',{'Funding'},{'QUT'}
+ 'TerimaKasih',{'Government'},{'Flinders'}
+ 'UTSInternationalStudies',{'Research'},{'UTSEngage'}
+ 'UniMelbOpenDay',{'Research'},{'unimelb'}
+ 'UnimelbHealth',"{'Medical', 'Health'}",{'unimelb'}
+ 'UnimelbOpenDay',"{'Medical', 'Health'}",{'unimelb'}
+ 'University',{'Government'},{'UNSW'}
+ 'VAD',"{'Health', 'Research'}",{'QUT'}
+ 'VRed',{'Research'},{'UniversitySA'}
+ 'Venetoclax',{'Research'},"{'WEHI_research', 'PeterMacCC'}"
+ 'WINNews6pm',{'Health'},{'latrobe'}
+ 'WeAreIHBI',"{'Health', 'Research'}",{'QUT'}
+ 'WhyWomenDrink',{'Research'},{'Uni_Newcastle'}
+ 'WomenInSTEM',{'Research'},{'Sydney_Uni'}
+ 'WomenInSTEMM',"{'Grant', 'Research'}",{'UTSEngage'}
+ 'WomenInSurgery',{'Medical'},{'UNSW'}
+ 'WomenandCJS',{'Research'},{'QUT'}
+ 'aboriginal',"{'Health', 'Research'}",{'UOW'}
+ 'adelaide',"{'Health', 'Research'}",{'Flinders'}
+ 'ageing',"{'Funding', 'Research'}",{'Flinders'}
+ 'agility',"{'Health', 'Research'}",{'sahmriAU'}
+ 'agriculture',{'Research'},{'sahmriAU'}
+ 'alliedhealth',"{'Health', 'Research'}",{'UTAS_'}
+ 'allkindsofclever',"{'Funding', 'Research'}",{'latrobe'}
+ 'alumni',{'Funding'},{'QUT'}
+ 'amsi',{'Health'},{'Flinders'}
+ 'anu',{'Health'},"{'Sydney_Uni', 'UQ_News', 'UniofAdelaide', 'uwanews', 'ANUmedia', 'UNSW', 'unimelb', 'MonashUni'}"
+ 'anxiety',"{'Medical', 'Health', 'Research'}","{'Sydney_Uni', 'QUT'}"
+ 'arctic',"{'Policy', 'Health', 'Grant', 'Research'}",{'ANUmedia'}
+ 'arthritis',"{'Medical', 'Health', 'Research'}",{'Sydney_Uni'}
+ 'artinscience',{'Research'},{'WEHI_research'}
+ 'assisteddying',"{'Health', 'Research'}",{'QUT'}
+ 'ausinnovation',"{'Medical', 'Health', 'Research'}","{'Sydney_Uni', 'PeterMacCC'}"
+ 'auslaw',{'Research'},{'Uni_Newcastle'}
+ 'ausmedicine',"{'Medical', 'Health', 'Research'}","{'Sydney_Uni', 'PeterMacCC'}"
+ 'auspol',"{'Health', 'Research'}","{'Uni_Newcastle', 'UOW'}"
+ 'aussie',{'Government'},{'QUT'}
+ 'aussieED',{'Research'},{'WEHI_research'}
+ 'banking',{'Research'},{'Macquarie_Uni'}
+ 'banksy',{'Government'},{'MonashUni'}
+ 'bioethics',"{'Medical', 'Research'}",{'WestmeadInst'}
+ 'biology',{'Research'},{'Macquarie_Uni'}
+ 'biotech',"{'Health', 'Research'}",{'sahmriAU'}
+ 'bleaching',{'Health'},{'QUT'}
+ 'bloodvessels',"{'Health', 'Grant', 'Research'}",{'WEHI_research'}
+ 'bodyimage',{'Research'},"{'unimelb', 'MCRI_for_kids'}"
+ 'bones',"{'Funding', 'Research'}",{'Flinders'}
+ 'booksnotbombs',{'Funding'},{'unimelb'}
+ 'brain',{'Research'},{'ANUmedia'}
+ 'burns',{'Research'},{'QUT'}
+ 'canberra',{'Health'},"{'Flinders', 'blackdoginst'}"
+ 'cancer',{'Research'},{'sahmriAU'}
+ 'cancerous',{'Research'},"{'WEHI_research', 'PeterMacCC'}"
+ 'cancertherapy',{'Research'},{'PeterMacCC'}
+ 'cannabis',"{'Medical', 'Health', 'Research'}",{'Sydney_Uni'}
+ 'cardiovasculardisease',{'Research'},{'CentenaryInst'}
+ 'cat',{'Research'},{'UQ_News'}
+ 'cfDNA',{'Grant'},{'PeterMacCC'}
+ 'cfconf2018',{'Research'},"{'unimelb', 'UQ_News', 'ANUmedia'}"
+ 'cheers',{'Research'},"{'WEHI_research', 'CentenaryInst', 'MonashUni'}"
+ 'citizenscience',{'Research'},{'latrobe'}
+ 'citizenscientists',{'Research'},{'latrobe'}
+ 'cleantech',{'Research'},{'Macquarie_Uni'}
+ 'clinicaltrials',{'Research'},{'PeterMacCC'}
+ 'collaboration',"{'Health', 'Research'}","{'Flinders', 'UTSEngage'}"
+ 'collaborators',"{'Funding', 'Research'}",{'latrobe'}
+ 'communicationaccess',{'Health'},{'latrobe'}
+ 'commute',{'Research'},{'MonashUni'}
+ 'conference',"{'Health', 'Research'}",{'UOW'}
+ 'corneal',{'Research'},"{'unimelb', 'EyeResearchAus'}"
+ 'corneas',{'Research'},"{'unimelb', 'EyeResearchAus'}"
+ 'crossdisciplinary',"{'Health', 'Research'}",{'UTSEngage'}
+ 'cyberstorm',{'Government'},{'UNSW'}
+ 'dementia',{'Research'},{'QUT'}
+ 'depression',"{'Medical', 'Health', 'Research'}","{'Sydney_Uni', 'QUT'}"
+ 'design',"{'Policy', 'Research'}",{'uwanews'}
+ 'destination',"{'Health', 'Research'}",{'sahmriAU'}
+ 'diabetes',"{'Health', 'Research'}","{'BakerResearchAu', 'QUT'}"
+ 'digitalhealth',"{'Medical', 'Health', 'Research'}",{'Sydney_Uni'}
+ 'disarmunis',{'Funding'},{'unimelb'}
+ 'disclosure',"{'Grant', 'Research'}",{'Sydney_Uni'}
+ 'dog',{'Research'},{'UQ_News'}
+ 'eAssessment',{'Grant'},"{'UQ_News', 'QUT', 'ANUmedia', 'UNSW'}"
+ 'earlycareer',{'Research'},{'ANUmedia'}
+ 'ebm',{'Research'},{'UNSW'}
+ 'ectoparasites',{'Research'},{'UQ_News'}
+ 'education',{'Research'},{'UniversitySA'}
+ 'educators',{'Health'},{'MonashUni'}
+ 'entrepreneur',{'Funding'},{'QUT'}
+ 'entrepreneurship',{'Funding'},{'QUT'}
+ 'environment',{'Funding'},{'UNSW'}
+ 'epilepsy',{'Research'},"{'TheFlorey', 'UQ_News'}"
+ 'equity',"{'Health', 'Research'}",{'BakerResearchAu'}
+ 'expliciteducators',{'Health'},{'MonashUni'}
+ 'feedingaus',{'Research'},{'UniofAdelaide'}
+ 'fellowships',{'Research'},{'ANUmedia'}
+ 'finance',{'Research'},{'Macquarie_Uni'}
+ 'fleas',{'Research'},{'UQ_News'}
+ 'foodallergy',"{'Health', 'Research'}",{'sahmriAU'}
+ 'foodsecurity',"{'Funding', 'Health'}",{'unimelb'}
+ 'future',"{'Health', 'Research'}",{'QUT'}
+ 'future_therapies',{'Research'},{'UniversitySA'}
+ 'futurechangemaker',{'Research'},{'QIMRBerghofer'}
+ 'futurecolleagues',{'Health'},{'latrobe'}
+ 'futureinhealth',"{'Health', 'Research'}",{'QUT'}
+ 'futureofhealth',"{'Health', 'Research'}",{'QIMRBerghofer'}
+ 'garvanseminar',{'Health'},{'GarvanInstitute'}
+ 'gender',"{'Grant', 'Research'}","{'Uni_Newcastle', 'ANUmedia'}"
+ 'geneediting',{'Research'},{'sahmriAU'}
+ 'generalpractice',"{'Health', 'Research'}",{'UOW'}
+ 'gippsnews',"{'Health', 'Government'}",{'latrobe'}
+ 'graffiti',{'Government'},{'MonashUni'}
+ 'grantseeking',{'Grant'},{'QUT'}
+ 'gulfmc',{'Grant'},{'uwanews'}
+ 'hackathon',{'Medical'},{'UNSW'}
+ 'hcsm',{'Grant'},{'PeterMacCC'}
+ 'health',"{'Medical', 'Health', 'Research'}","{'UTAS_', 'Sydney_Uni', 'Uni_Newcastle', 'UOW', 'QUT'}"
+ 'healthcare',"{'Medical', 'Health'}","{'MCRI_for_kids', 'QUT'}"
+ 'healthequity',"{'Policy', 'Health'}",{'Flinders'}
+ 'healthlaw',{'Health'},{'Sydney_Uni'}
+ 'healthpolicy',"{'Policy', 'Health', 'Grant', 'Research'}",{'ANUmedia'}
+ 'healthscience',"{'Health', 'Research'}",{'UTAS_'}
+ 'healthsecurity',{'Health'},{'Flinders'}
+ 'healthy',"{'Health', 'Research'}",{'QUT'}
+ 'highered',"{'Health', 'Research'}",{'UOW'}
+ 'holiday',{'Research'},{'QUT'}
+ 'honours',{'Research'},"{'unimelb', 'MCRI_for_kids'}"
+ 'hope',{'Research'},{'blackdoginst'}
+ 'igers',{'Medical'},{'UNSW'}
+ 'ihbiinspires2018',{'Research'},{'QUT'}
+ 'immune',{'Research'},"{'WEHI_research', 'PeterMacCC'}"
+ 'immunoprecipitation',{'Research'},{'UQ_News'}
+ 'indigenoushealth',"{'Policy', 'Health', 'Grant', 'Research'}",{'ANUmedia'}
+ 'information',{'Research'},{'UniversitySA'}
+ 'inspirational',{'Research'},{'QUT'}
+ 'instagood',{'Medical'},{'UNSW'}
+ 'interdisciplinary',{'Health'},{'latrobe'}
+ 'internationalimpact',{'Health'},{'Flinders'}
+ 'job',{'Health'},{'latrobe'}
+ 'judging',{'Research'},{'Uni_Newcastle'}
+ 'keynote',{'Medical'},{'UNSW'}
+ 'kidsfirst',{'Research'},"{'unimelb', 'MCRI_for_kids'}"
+ 'kidshealth',{'Health'},{'MCRI_for_kids'}
+ 'knowledge',{'Research'},{'UniversitySA'}
+ 'lamington',{'Government'},{'QUT'}
+ 'leader',"{'Policy', 'Research'}",{'BakerResearchAu'}
+ 'learning',{'Research'},{'MCRI_for_kids'}
+ 'life',{'Research'},{'MonashUni'}
+ 'lifelonglearning',{'Health'},{'MonashUni'}
+ 'livedexperience',{'Research'},{'blackdoginst'}
+ 'lockoutlockheed',{'Funding'},{'unimelb'}
+ 'madrid',"{'Health', 'Research'}",{'UOW'}
+ 'malaria',"{'Health', 'Research'}",{'QIMRBerghofer'}
+ 'mediapitch',{'Research'},{'WEHI_research'}
+ 'medical',"{'Medical', 'Research'}",{'UniofAdelaide'}
+ 'medicalreaearch',"{'Medical', 'Health', 'Research'}",{'WEHI_research'}
+ 'medicalresearch',"{'Medical', 'Research'}",{'WestmeadInst'}
+ 'medicine',"{'Health', 'Research'}",{'Sydney_Uni'}
+ 'medtech',"{'Health', 'Research'}",{'sahmriAU'}
+ 'melanoma',{'Grant'},{'PeterMacCC'}
+ 'melbourne',{'Health'},{'MCRI_for_kids'}
+ 'mentalist',{'Medical'},{'UNSW'}
+ 'mentor',"{'Policy', 'Research'}",{'BakerResearchAu'}
+ 'midwifery',"{'Health', 'Research'}","{'UTAS_', 'UTSEngage'}"
+ 'mindfullness',{'Research'},{'PeterMacCC'}
+ 'minerals',"{'Grant', 'Research'}",{'Sydney_Uni'}
+ 'mining',"{'Grant', 'Research'}",{'Sydney_Uni'}
+ 'monash',{'Health'},"{'Sydney_Uni', 'UQ_News', 'UniofAdelaide', 'uwanews', 'ANUmedia', 'UNSW', 'unimelb', 'MonashUni'}"
+ 'monashuni',"{'Health', 'Government'}","{'Sydney_Uni', 'UQ_News', 'UniofAdelaide', 'uwanews', 'ANUmedia', 'UNSW', 'unimelb', 'MonashUni'}"
+ 'mosquitocontrol',"{'Health', 'Research'}",{'QIMRBerghofer'}
+ 'multidisciplinary',{'Health'},{'latrobe'}
+ 'nanoparticle',{'Research'},{'PeterMacCC'}
+ 'nationalscienceweek',{'Research'},{'UniversitySA'}
+ 'natsciwk',{'Research'},{'UniversitySA'}
+ 'neuroscience',{'Research'},"{'ANUmedia', 'UniversitySA'}"
+ 'nmp',{'Research'},{'Flinders'}
+ 'nonprofit',{'Grant'},{'QUT'}
+ 'nswpol',{'Health'},{'Uni_Newcastle'}
+ 'nursing',"{'Health', 'Research'}","{'UOW', 'Sydney_Uni', 'UTSEngage'}"
+ 'nursingreview',"{'Medical', 'Health', 'Research'}",{'Sydney_Uni'}
+ 'oakleigh',{'Government'},{'MonashUni'}
+ 'offshore',{'Grant'},{'uwanews'}
+ 'oldgovernmenthouse',{'Government'},{'QUT'}
+ 'openday',{'Research'},{'Macquarie_Uni'}
+ 'osteoporosis',{'Health'},{'GarvanInstitute'}
+ 'ozearlyed',{'Research'},{'Macquarie_Uni'}
+ 'pallcare',"{'Health', 'Research'}",{'QUT'}
+ 'palliativecare',{'Health'},{'UniofAdelaide'}
+ 'passion',{'Research'},"{'unimelb', 'MCRI_for_kids'}"
+ 'paste',{'Research'},{'sahmriAU'}
+ 'pdhlife',"{'Health', 'Research'}",{'Sydney_Uni'}
+ 'peerobservation',{'Research'},{'Uni_Newcastle'}
+ 'physiology',"{'Medical', 'Health'}",{'unimelb'}
+ 'placedbasedmethodologies',{'Research'},{'UTSEngage'}
+ 'placementlearning',{'Health'},{'UQ_News'}
+ 'policy',"{'Policy', 'Research'}",{'BakerResearchAu'}
+ 'postgraduate',{'Research'},{'BakerResearchAu'}
+ 'pracademic',{'Research'},{'MonashUni'}
+ 'prevention',"{'Health', 'Research'}",{'sahmriAU'}
+ 'primarycare',"{'Health', 'Research'}",{'UOW'}
+ 'primaryhealthcare',"{'Policy', 'Health'}",{'Flinders'}
+ 'product',{'Funding'},{'QUT'}
+ 'productivity',{'Research'},{'Uni_Newcastle'}
+ 'puberty',{'Research'},"{'unimelb', 'MCRI_for_kids'}"
+ 'qldpol',{'Government'},{'latrobe'}
+ 'qutvenuecollection',{'Government'},{'QUT'}
+ 'rapport',{'Medical'},{'UNSW'}
+ 'regenerative_medicine',{'Research'},{'UniversitySA'}
+ 'research',"{'Policy', 'Health', 'Grant', 'Research'}","{'Macquarie_Uni', 'Sydney_Uni', 'UTAS_', 'ANUmedia', 'UniversitySA', 'QUT', 'Uni_Newcastle', 'UNSW', 'BakerResearchAu', 'unimelb', 'sahmriAU', 'CentenaryInst', 'MonashUni'}"
+ 'resilience',"{'Policy', 'Research'}",{'BakerResearchAu'}
+ 'respiratory',"{'Health', 'Research'}",{'QUT'}
+ 'rlweek2018',{'Research'},{'unimelb'}
+ 'robotics',"{'Policy', 'Health', 'Research'}",{'QUT'}
+ 'ruralhealth',{'Health'},{'Uni_Newcastle'}
+ 'scholarship',{'Research'},{'Uni_Newcastle'}
+ 'sciart',"{'Medical', 'Research'}",{'WEHI_research'}
+ 'scicomm',"{'Medical', 'Research'}","{'Macquarie_Uni', 'WEHI_research'}"
+ 'science',{'Research'},"{'Sydney_Uni', 'WEHI_research', 'UniversitySA', 'Uni_Newcastle', 'MCRI_for_kids', 'unimelb', 'MonashUni'}"
+ 'sciencecommunication',{'Research'},{'WEHI_research'}
+ 'scienceofus',{'Research'},"{'Flinders', 'ANUmedia'}"
+ 'scienceweek',"{'Medical', 'Research'}","{'UTAS_', 'WEHI_research', 'QIMRBerghofer', 'ANUmedia', 'Flinders', 'EyeResearchAus', 'unimelb', 'sahmriAU', 'PeterMacCC'}"
+ 'simulation',{'Medical'},{'unimelb'}
+ 'sleep',"{'Medical', 'Health', 'Research'}",{'Sydney_Uni'}
+ 'snip',{'Research'},{'sahmriAU'}
+ 'socialJ',{'Health'},{'UOW'}
+ 'socialrobots',"{'Health', 'Research'}",{'QUT'}
+ 'software',{'Grant'},{'UniversitySA'}
+ 'speaker',{'Medical'},{'UNSW'}
+ 'sportscardiology',{'Research'},{'BakerResearchAu'}
+ 'staff',{'Funding'},{'QUT'}
+ 'startup',{'Funding'},{'QUT'}
+ 'stitch',{'Research'},{'sahmriAU'}
+ 'stories',{'Research'},{'MonashUni'}
+ 'student',{'Funding'},{'QUT'}
+ 'students',"{'Medical', 'Health'}",{'unimelb'}
+ 'sustainability',{'Research'},{'Macquarie_Uni'}
+ 'sydneyuni',{'Health'},"{'Sydney_Uni', 'UQ_News', 'UniofAdelaide', 'uwanews', 'ANUmedia', 'UNSW', 'unimelb', 'MonashUni'}"
+ 'technology',{'Research'},{'sahmriAU'}
+ 'thefutureisbright',{'Health'},{'latrobe'}
+ 'ticks',{'Research'},{'UQ_News'}
+ 'trade',{'Policy'},{'QUT'}
+ 'travellers',{'Research'},{'QUT'}
+ 'treatment',{'Medical'},{'Flinders'}
+ 'unimelb',{'Health'},"{'Sydney_Uni', 'UQ_News', 'UniofAdelaide', 'uwanews', 'ANUmedia', 'UNSW', 'unimelb', 'MonashUni'}"
+ 'uniofadelaide',"{'Medical', 'Health'}","{'Sydney_Uni', 'UQ_News', 'UniofAdelaide', 'uwanews', 'ANUmedia', 'UNSW', 'unimelb', 'MonashUni'}"
+ 'unpaywall',{'Research'},{'Flinders'}
+ 'unsw',{'Health'},"{'Sydney_Uni', 'UQ_News', 'UniofAdelaide', 'uwanews', 'ANUmedia', 'UNSW', 'unimelb', 'MonashUni'}"
+ 'uow',"{'Health', 'Research'}",{'UOW'}
+ 'uq',{'Health'},"{'Sydney_Uni', 'UQ_News', 'UniofAdelaide', 'uwanews', 'ANUmedia', 'UNSW', 'unimelb', 'MonashUni'}"
+ 'urgentcare',"{'Medical', 'Health'}",{'latrobe'}
+ 'uwa',{'Health'},"{'Sydney_Uni', 'UQ_News', 'UniofAdelaide', 'uwanews', 'ANUmedia', 'UNSW', 'unimelb', 'MonashUni'}"
+ 'veterinary',{'Research'},{'UQ_News'}
+ 'volunteering',{'Health'},{'UQ_News'}
+ 'wargaming',{'Government'},{'UNSW'}
+ 'wespeechies',{'Grant'},"{'unimelb', 'MCRI_for_kids'}"
+ 'westernblot',{'Research'},{'UQ_News'}
+ 'wetland',{'Research'},{'Macquarie_Uni'}
+ 'wildoz',{'Research'},{'UQ_News'}
+ 'women',"{'Medical', 'Health'}",{'QUT'}
+ 'womeninSTEMM',"{'Policy', 'Research'}",{'BakerResearchAu'}
+ 'worldleaders',{'Government'},{'Flinders'}
+ 'wounds',{'Research'},{'UniversitySA'}
+ 'zetaris',{'Health'},{'MCRI_for_kids'}
+'3DPrinting',"{'Medical', 'Health'}",{'unimelb'}
+'ABSS2018',{'Research'},{'UniofAdelaide'}
+'ADFA',{'Grant'},"{'ANUmedia', 'UNSW'}"
+'ADifferentLens',{'Medical'},{'MonashUni'}
+'AHMS',{'Health'},{'UniofAdelaide'}
+'AI',{'Research'},{'Sydney_Uni'}
+'APEC2018',{'Health'},{'UTSEngage'}
+'ASIO',{'Research'},{'Flinders'}
+'Adelaide',"{'Health', 'Research'}",{'sahmriAU'}
+'AdolescentHealth',"{'Health', 'Research'}","{'unimelb', 'MCRI_for_kids'}"
+'Alzheimer',"{'Medical', 'Research'}",{'UniofAdelaide'}
+'Antiproliferative',{'Research'},{'WEHI_research'}
+'Aphasia',{'Research'},{'latrobe'}
+'ArtOfScience',"{'Medical', 'Research'}",{'WEHI_research'}
+'ArtofScience',"{'Medical', 'Research'}",{'WEHI_research'}
+'Australia',"{'Health', 'Research'}",{'BakerResearchAu'}
+'AustraliaAwards',{'Policy'},{'ANUmedia'}
+'Australian',{'Research'},{'QUT'}
+'AustralianAboriginalStudies',{'Research'},{'latrobe'}
+'Autism',{'Research'},{'QUT'}
+'BankingRC',{'Research'},{'Macquarie_Uni'}
+'Bendigo',{'Health'},{'latrobe'}
+'BigData',"{'Health', 'Research'}",{'MCRI_for_kids'}
+'BrainMetastases',{'Grant'},{'PeterMacCC'}
+'Brrosies',{'Health'},{'blackdoginst'}
+'CIMIA',{'Medical'},{'CentenaryInst'}
+'CNBP',{'Health'},{'Macquarie_Uni'}
+'COYS',{'Health'},{'blackdoginst'}
+'CRISPR',{'Research'},{'sahmriAU'}
+'CSG',{'Health'},{'QUT'}
+'CSPempowers',{'Medical'},{'UOW'}
+'CancerResearch',{'Research'},{'GarvanInstitute'}
+'ChronicWounds',{'Health'},{'QUT'}
+'City2Surf',{'Health'},{'blackdoginst'}
+'ComputerScience',{'Research'},{'ANUmedia'}
+'Crispr',{'Research'},"{'BakerResearchAu', 'GarvanInstitute'}"
+'Cut',{'Research'},{'sahmriAU'}
+'DarthVader',{'Health'},{'unimelb'}
+'DefendCordillera',{'Government'},{'UNSW'}
+'Disgrace',{'Funding'},{'UniversitySA'}
+'DomesticViolence',{'Funding'},{'QUT'}
+'DrugTrends',"{'Medical', 'Research'}",{'UNSW'}
+'ECEC',{'Research'},{'Macquarie_Uni'}
+'EOL',"{'Health', 'Research'}",{'QUT'}
+'EndOfLife',{'Health'},{'UniofAdelaide'}
+'Eye',{'Research'},"{'unimelb', 'EyeResearchAus'}"
+'Fellowship',"{'Funding', 'Grant', 'Research'}","{'UNSW', 'QIMRBerghofer', 'GarvanInstitute'}"
+'Flinders',{'Research'},{'Flinders'}
+'Fracking',{'Research'},{'uwanews'}
+'GCI_MACH',{'Health'},"{'unimelb', 'MCRI_for_kids'}"
+'GPTEC2018',"{'Medical', 'Health'}",{'Flinders'}
+'GPUs',{'Research'},{'Sydney_Uni'}
+'Genetics',{'Health'},"{'UNSW', 'GarvanInstitute'}"
+'Great',{'Medical'},{'UNSW'}
+'GreyNomads',"{'Health', 'Research'}",{'UOW'}
+'HDR',{'Research'},{'Macquarie_Uni'}
+'HealthAdvocatePodcast',{'Health'},{'UQ_News'}
+'HealthGuru',{'Health'},{'QUT'}
+'Heidegger',"{'Grant', 'Research'}",{'Sydney_Uni'}
+'HigherEd',"{'Policy', 'Government', 'Research'}","{'QUT', 'UniversitySA', 'UNSW'}"
+'ICID2018',{'Research'},{'UniofAdelaide'}
+'IHBI',{'Research'},{'QUT'}
+'IHBIinspires2018',"{'Medical', 'Health', 'Research'}",{'QUT'}
+'IMNIS',{'Research'},"{'unimelb', 'WEHI_research'}"
+'IP',{'Policy'},{'QUT'}
+'Indonesia',{'Health'},{'uwanews'}
+'JLRGIVES5',{'Research'},{'WEHI_research'}
+'JMP',{'Health'},{'Uni_Newcastle'}
+'JORC',"{'Grant', 'Research'}",{'Sydney_Uni'}
+'KeralaFloods',{'Government'},{'MonashUni'}
+'Kyabram',{'Health'},{'blackdoginst'}
+'LEW2018',{'Policy'},{'unimelb'}
+'LISH18',{'Research'},{'WEHI_research'}
+'LahiruRussell',{'Research'},{'PeterMacCC'}
+'Latrobe',"{'Medical', 'Health'}",{'latrobe'}
+'MCCRSA',{'Research'},"{'unimelb', 'MCRI_for_kids'}"
+'MELANOMA',{'Research'},{'QIMRBerghofer'}
+'MHR',"{'Medical', 'Health'}",{'Flinders'}
+'MVP',{'Research'},{'BakerResearchAu'}
+'MedEd',{'Medical'},{'unimelb'}
+'Medical',{'Medical'},{'UniversitySA'}
+'Melanoma',{'Grant'},{'PeterMacCC'}
+'Melbourne',{'Research'},{'WEHI_research'}
+'MeningococcalB',{'Research'},{'UniofAdelaide'}
+'MentalHealth',"{'Health', 'Research'}",{'UOW'}
+'Mentalhealth',"{'Health', 'Research'}","{'UOW', 'UniversitySA'}"
+'Mobile',{'Health'},{'Flinders'}
+'MonsantoLies',{'Research'},{'UOW'}
+'MosquitoDay',"{'Health', 'Research'}",{'QIMRBerghofer'}
+'MultipleSclerosis',"{'Health', 'Research'}",{'PeterMacCC'}
+'NEG',{'Government'},{'latrobe'}
+'NETcancer',{'Research'},{'PeterMacCC'}
+'NHMRC',"{'Health', 'Grant', 'Research'}","{'unimelb', 'MCRI_for_kids', 'UQ_News'}"
+'NSVW',{'Health'},{'UQ_News'}
+'Nanomedicine',{'Research'},{'PeterMacCC'}
+'NatSciWk',{'Research'},{'latrobe'}
+'NoFrills2018',"{'Policy', 'Research'}","{'unimelb', 'UTSEngage'}"
+'OCD',"{'Medical', 'Research'}","{'Flinders', 'ANUmedia'}"
+'OffshoreWind',{'Grant'},{'uwanews'}
+'OnlineHarassment',{'Grant'},{'ANUmedia'}
+'OpenDays',{'Government'},{'Flinders'}
+'OvarianCancer',{'Research'},{'WestmeadInst'}
+'PLM',{'Grant'},{'UniversitySA'}
+'Pacific',{'Grant'},{'UQ_News'}
+'PalliativeCare',{'Research'},{'MonashUni'}
+'PhD',{'Research'},"{'Flinders', 'UniofAdelaide'}"
+'ProstateCancer',{'Research'},{'GarvanInstitute'}
+'QIMRBerghofer',"{'Health', 'Research'}",{'QIMRBerghofer'}
+'QUT',"{'Funding', 'Health', 'Research'}",{'QUT'}
+'QUTGivingDay',{'Research'},{'QUT'}
+'QUTOAA',"{'Medical', 'Health'}",{'QUT'}
+'Queensland',{'Research'},{'UQ_News'}
+'ROSAResearch',{'Research'},{'sahmriAU'}
+'Research',{'Research'},{'UOW'}
+'ResearchAction18',"{'Health', 'Research'}",{'UTSEngage'}
+'ResearchTuesdays',{'Research'},"{'UTAS_', 'UniofAdelaide'}"
+'Rockhampton',{'Research'},{'UQ_News'}
+'Rstats',{'Research'},"{'UQ_News', 'QUT'}"
+'SAHMRI',{'Research'},{'Sydney_Uni'}
+'SAscienceAwards',"{'Health', 'Research'}","{'UniofAdelaide', 'UNSW'}"
+'SPWeek',{'Health'},{'latrobe'}
+'SciArt',{'Research'},{'WEHI_research'}
+'ScienceOfUs',{'Health'},"{'Flinders', 'UNSW'}"
+'ScienceWeek',"{'Health', 'Grant', 'Research'}","{'WEHI_research', 'UTAS_'}"
+'SixIncredibleThingsBeforeBreakfast',{'Research'},{'WEHI_research'}
+'SpaceEthics',{'Research'},{'UNSW'}
+'StopAVN',"{'Health', 'Research'}",{'UOW'}
+'StudyInAustralia',{'Research'},{'latrobe'}
+'TLAlert',{'Medical'},{'QUT'}
+'Tamworth',{'Health'},{'Uni_Newcastle'}
+'Travel',"{'Policy', 'Health', 'Grant', 'Research'}",{'ANUmedia'}
+'Type1Diabetes',{'Research'},{'UQ_News'}
+'UOWInnov18',{'Research'},{'UOW'}
+'UOWTV',{'Health'},{'UOW'}
+'UQ',"{'Health', 'Grant', 'Research'}","{'UQ_News', 'QUT'}"
+'UTS',"{'Health', 'Research'}",{'UTSEngage'}
+'UTSFASS',{'Research'},{'UTSEngage'}
+'UniInTheBrewery',{'Health'},{'UOW'}
+'UniMelb',{'Research'},{'unimelb'}
+'UniMelbOpenDay',"{'Medical', 'Government', 'Research'}",{'unimelb'}
+'UniSA3MT',{'Research'},{'UniversitySA'}
+'UniSAOpenDay',"{'Medical', 'Health'}",{'UniversitySA'}
+'UnimelbHealth',{'Health'},{'unimelb'}
+'UnimelbOpenDay',"{'Medical', 'Policy', 'Health', 'Funding', 'Government'}",{'unimelb'}
+'UnimelbPursuit',"{'Medical', 'Policy', 'Health', 'Grant', 'Government'}",{'unimelb'}
+'UniversityPartner',{'Research'},{'Uni_Newcastle'}
+'VH18',{'Policy'},{'UNSW'}
+'VR',{'Research'},{'UniversitySA'}
+'Vietnam',{'Research'},{'latrobe'}
+'WHRN18',{'Health'},{'Sydney_Uni'}
+'WWWeek',"{'Policy', 'Research'}",{'UTSEngage'}
+'Westmead',"{'Medical', 'Health', 'Grant', 'Research'}",{'WestmeadInst'}
+'WomenInSTEM',"{'Policy', 'Research'}","{'Uni_Newcastle', 'UTAS_'}"
+'WorkIntegratedLearning',"{'Grant', 'Research'}",{'UTSEngage'}
+'Xmen',{'Research'},{'TheFlorey'}
+'adolescent',{'Health'},"{'unimelb', 'MCRI_for_kids'}"
+'agricultural',{'Research'},"{'unimelb', 'UQ_News', 'ANUmedia'}"
+'alcoholawareness',{'Health'},{'uwanews'}
+'alliedhealthcare',"{'Health', 'Research'}",{'Sydney_Uni'}
+'antibodies',{'Research'},{'UQ_News'}
+'antibody',{'Research'},"{'WEHI_research', 'PeterMacCC'}"
+'apartment',"{'Policy', 'Research'}",{'uwanews'}
+'artofscience',{'Research'},{'WEHI_research'}
+'auspol',"{'Policy', 'Health', 'Funding', 'Research', 'Government'}","{'blackdoginst', 'UTAS_', 'Uni_Newcastle', 'Flinders', 'latrobe', 'unimelb'}"
+'backpain',"{'Medical', 'Health', 'Research'}",{'Sydney_Uni'}
+'bankingRC',{'Research'},{'Macquarie_Uni'}
+'binfjobs',{'Research'},{'BakerResearchAu'}
+'biosecurity',"{'Funding', 'Government'}",{'latrobe'}
+'biosensor',{'Research'},{'ANUmedia'}
+'birdsong',{'Health'},{'UTAS_'}
+'bonebiology',{'Health'},{'GarvanInstitute'}
+'breastcancer',{'Research'},"{'WEHI_research', 'GarvanInstitute'}"
+'cancer',"{'Grant', 'Research'}","{'PeterMacCC', 'UniversitySA'}"
+'cancerresearch',{'Research'},{'Macquarie_Uni'}
+'cardiovascular',{'Research'},{'BakerResearchAu'}
+'cbrn',{'Health'},{'Flinders'}
+'cells',"{'Medical', 'Research'}",{'UniofAdelaide'}
+'change',{'Research'},{'QUT'}
+'children',{'Research'},"{'unimelb', 'MCRI_for_kids'}"
+'climatechange',{'Research'},{'Macquarie_Uni'}
+'clinical',{'Research'},{'UniversitySA'}
+'cocktails',{'Government'},{'QUT'}
+'collaborated',"{'Grant', 'Research'}","{'Macquarie_Uni', 'uwanews'}"
+'collaboration',{'Medical'},{'UNSW'}
+'collaborative',{'Research'},{'Uni_Newcastle'}
+'coral',{'Health'},{'QUT'}
+'cyber',{'Government'},{'UNSW'}
+'cybersecurity',"{'Grant', 'Government'}","{'latrobe', 'Sydney_Uni'}"
+'dementia',{'Research'},{'Flinders'}
+'depression',{'Research'},{'QUT'}
+'diabetes',{'Medical'},{'UQ_News'}
+'diabetics',"{'Medical', 'Health', 'Research'}",{'Sydney_Uni'}
+'drugs',{'Research'},{'MonashUni'}
+'eAssessment',{'Grant'},"{'Flinders', 'UniversitySA', 'UniofAdelaide'}"
+'endTB',{'Research'},{'Sydney_Uni'}
+'engagedscholarship',{'Research'},{'UTSEngage'}
+'evidencebasedpractise',"{'Medical', 'Health'}",{'MonashUni'}
+'ewingsarcoma',{'Funding'},{'PeterMacCC'}
+'fairfundingnow',{'Funding'},{'latrobe'}
+'familieshelpingfamilies',{'Medical'},{'Flinders'}
+'foodinnovation',{'Research'},{'UniofAdelaide'}
+'gippsnews',{'Health'},{'latrobe'}
+'gradcert',{'Health'},{'MonashUni'}
+'grant',{'Grant'},{'QUT'}
+'hdrstudentconf',"{'Health', 'Research'}",{'Sydney_Uni'}
+'health',"{'Health', 'Research'}","{'MCRI_for_kids', 'UTAS_'}"
+'hiring',{'Health'},{'latrobe'}
+'hope',"{'Medical', 'Health', 'Research'}",{'WEHI_research'}
+'humerus',{'Research'},{'Macquarie_Uni'}
+'iAccelerate',{'Funding'},{'UOW'}
+'ihbiinspires2018',{'Health'},{'QUT'}
+'imaging',{'Grant'},{'PeterMacCC'}
+'impact',{'Research'},{'Macquarie_Uni'}
+'innovation',{'Research'},"{'WEHI_research', 'ANUmedia', 'PeterMacCC'}"
+'laboratory',"{'Medical', 'Health'}",{'unimelb'}
+'latrobeuni',"{'Health', 'Grant', 'Research'}",{'latrobe'}
+'linguistics',{'Research'},{'unimelb'}
+'marketing',{'Research'},{'QUT'}
+'masters',{'Health'},{'Sydney_Uni'}
+'medicalresearch',"{'Medical', 'Grant', 'Research'}",{'sahmriAU'}
+'medicalresearchworks',"{'Medical', 'Research'}","{'WEHI_research', 'EyeResearchAus'}"
+'mental',{'Health'},{'uwanews'}
+'mentalhealth',{'Health'},{'latrobe'}
+'metastasis',{'Research'},{'GarvanInstitute'}
+'metoo',"{'Medical', 'Health', 'Research'}",{'unimelb'}
+'moderatedrinking',{'Research'},{'Uni_Newcastle'}
+'modify18',{'Health'},{'UniversitySA'}
+'monash',{'Government'},{'MonashUni'}
+'mqopenday2018',{'Research'},{'Macquarie_Uni'}
+'musicscience',{'Research'},{'Macquarie_Uni'}
+'myhealthrecord',"{'Health', 'Research'}",{'Flinders'}
+'nanosciweek',{'Research'},{'UniversitySA'}
+'nhmrc',"{'Policy', 'Health', 'Research'}","{'BakerResearchAu', 'sahmriAU'}"
+'openaccess',"{'Health', 'Research'}",{'Sydney_Uni'}
+'openday',{'Research'},{'unimelb'}
+'ortho',{'Research'},{'UNSW'}
+'ovariancancer',{'Research'},{'WestmeadInst'}
+'physical',{'Health'},{'QUT'}
+'pickmyproject',"{'Funding', 'Health'}",{'unimelb'}
+'politicsoflistening',{'Grant'},{'UNSW'}
+'postdocjobsaus',"{'Health', 'Research'}",{'UOW'}
+'preterm',{'Funding'},"{'unimelb', 'MCRI_for_kids'}"
+'proflexdoyle',{'Research'},"{'unimelb', 'MCRI_for_kids'}"
+'renewable',{'Funding'},{'UNSW'}
+'research',"{'Funding', 'Health', 'Grant', 'Research'}","{'Sydney_Uni', 'Flinders', 'MCRI_for_kids', 'latrobe', 'unimelb', 'UOW', 'MonashUni'}"
+'researchlife',{'Research'},{'unimelb'}
+'river',{'Research'},{'Macquarie_Uni'}
+'schistosomiasis',{'Research'},{'QIMRBerghofer'}
+'scienceweek',"{'Policy', 'Health', 'Research'}","{'Macquarie_Uni', 'blackdoginst', 'Sydney_Uni', 'WEHI_research', 'Flinders', 'unimelb'}"
+'scientists',{'Research'},{'CentenaryInst'}
+'sdoh',{'Health'},{'UniofAdelaide'}
+'sharks',{'Research'},{'Uni_Newcastle'}
+'simulation',{'Health'},"{'unimelb', 'MonashUni'}"
+'skin',{'Research'},{'UniversitySA'}
+'snowflakes',{'Research'},{'uwanews'}
+'soar',"{'Health', 'Research'}",{'Sydney_Uni'}
+'space',{'Medical'},{'UTAS_'}
+'springst',{'Government'},{'Flinders'}
+'stemcell',"{'Medical', 'Research'}","{'unimelb', 'WestmeadInst', 'EyeResearchAus'}"
+'stickinsects',{'Research'},{'Macquarie_Uni'}
+'stormwater',{'Research'},{'UniofAdelaide'}
+'sueellerywhohasblocked',{'Funding'},{'uwanews'}
+'suicideprevention',{'Research'},{'blackdoginst'}
+'supercomputer',{'Research'},{'ANUmedia'}
+'surgery',{'Research'},{'QUT'}
+'technology',{'Health'},{'MCRI_for_kids'}
+'traditional',"{'Health', 'Research'}",{'QUT'}
+'uaopenday',"{'Medical', 'Health'}",{'UniofAdelaide'}
+'ultrasound',{'Medical'},{'QUT'}
+'university',{'Research'},{'UniversitySA'}
+'usyd',{'Health'},"{'Sydney_Uni', 'UQ_News', 'UniofAdelaide', 'uwanews', 'ANUmedia', 'UNSW', 'unimelb', 'MonashUni'}"
+'utasopenday2018',{'Health'},{'UTAS_'}
+'venom',{'Research'},"{'TheFlorey', 'UQ_News'}"
+'westmead',"{'Health', 'Research'}",{'WestmeadInst'}
+'westpacscholar',{'Research'},{'ANUmedia'}
+'whendidigetold',{'Medical'},{'UNSW'}
+'womeninSTEMM',"{'Funding', 'Grant', 'Research'}","{'WEHI_research', 'CentenaryInst', 'MonashUni'}"
+'yts2018',"{'Medical', 'Research'}",{'UTAS_'}
